@@ -262,7 +262,7 @@ def load_saved_artifacts():
 
     global model
     if model is None:
-        with open('./artifacts/cian_model_rfr.pickle', 'rb') as f:
+        with open('./artifacts/best_cb_model.pkl', 'rb') as f:
             model = pickle.load(f)
     print("loading saved artifacts...done")    
 

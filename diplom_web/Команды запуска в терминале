@@ -1,0 +1,6 @@
+docker build -t diplom .
+docker run -p 5000:5000 diplom python server.py
+
+cd test
+python3 client.py
+cd ..

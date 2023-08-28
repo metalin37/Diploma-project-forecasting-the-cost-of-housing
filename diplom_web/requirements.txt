@@ -1,0 +1,6 @@
+category-encoders==2.6.0
+numpy==1.23.5
+pandas==1.5.2
+regex==2022.10.31
+scikit-learn==1.2.0
+catboost

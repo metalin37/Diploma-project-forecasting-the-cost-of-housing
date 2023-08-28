@@ -47,25 +47,3 @@ def load_saved_artifacts():
         with open('./artifacts/best_cb_model.pkl', 'rb') as f:
             model = pickle.load(f)
     print("loading saved artifacts...done")    
-
-
-def get_flatType_names():
-    return flatTypes
-
-def get_region_names():
-    return regions
-
-def get_city_names():
-    return cities
-
-def get_materialType_names():
-    return materialTypes
-
-
-if __name__ == '__main__':
-    load_saved_artifacts()
-    print(get_flatType_names())
-    print(get_materialType_names())
-    print(get_region_names())
-    print(get_city_names())
-    print(get_estimated_price(0,12,1,0,0,8,120,2,60,18,1,1,1,1,0,0,0,'flattype_rooms','region_crimea','city_alushta','materialtype_monolith'))

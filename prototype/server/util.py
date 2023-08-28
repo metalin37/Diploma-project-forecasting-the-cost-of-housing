@@ -1,7 +1,8 @@
 import json
 import pickle
 import numpy as np
- 
+
+# функция для обработки входных данных 
 def preprocess_and_predict(df_input, model):
     '''Pre-processes input data and makes predictions using the provided model.'''
     

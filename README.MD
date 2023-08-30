@@ -35,3 +35,5 @@
 
     * Создан Docker контейнер 
     * Расписана инструкция по созданию и запуску контейнера
+
+→ Фитбек ментора (по ссылке): https://docs.google.com/document/d/1A6lwPmoH9fls_MosgYRvZfHf9ts7LZf__H0thhRQ9pM/edit

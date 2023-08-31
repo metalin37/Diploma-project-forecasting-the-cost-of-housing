@@ -37,4 +37,5 @@
     * Расписана инструкция по созданию и запуску контейнера
 
 → Фитбек ментора (по ссылке): https://docs.google.com/document/d/1A6lwPmoH9fls_MosgYRvZfHf9ts7LZf__H0thhRQ9pM/edit
-Оценка https://github.com/metalin37/Diploma-project-forecasting-the-cost-of-housing/blob/main/image/%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0.png
+
+→ Оценка: https://github.com/metalin37/Diploma-project-forecasting-the-cost-of-housing/blob/main/image/%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0.png

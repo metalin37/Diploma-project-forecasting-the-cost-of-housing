@@ -122,7 +122,6 @@ libclang==16.0.6
 lightfm==1.17
 lightgbm==4.0.0
 lz4==4.3.2
-MailGw-Temporary-Email==0.0.2
 Mako==1.2.4
 Markdown==3.4.4
 markdown-it-py==3.0.0
